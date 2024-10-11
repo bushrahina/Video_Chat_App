@@ -10,8 +10,6 @@ This is a browser-based video chat application that supports real-time video and
 
 - **Group Video Call**: Supports group video calls with multiple participants.
 
-- **Voice Call**: Users can initiate voice-only calls.
-
 - **Screen Sharing**: Users can share their entire screen, a specific Chrome tab, or a selected window during video calls. Audio from the shared tab can also be shared.
 
 - **In-App Chat**: Includes a chat feature where users can send messages during the call.
